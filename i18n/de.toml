@@ -61,5 +61,3 @@ other = "Suche nach etwas ..."
 [toc]
 other = "Inhaltsverzeichnis"
 
-[copyright]
-other = "Made by {{ .name }} using <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}"
