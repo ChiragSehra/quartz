@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "37042680edb1af9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8340348831aee90b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b26da958d889b1c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efb9dfdb6efd6096",
+    "type": "split",
+    "children": [
+      {
+        "id": "27e43c75aefecd61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "671442a071331a4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5907204bb865aa86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8269514f287dbe64",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384.5
+  },
+  "right": {
+    "id": "62fba2febab95d7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e79820fa6e74f6b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90eac308f61fe0a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a580dee3fd2feb05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1875aadff9b1b987",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f20259db9152d07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b26da958d889b1c1",
+  "lastOpenFiles": [
+    "notes/Unleashing Sensitive Datasets with Distributed Data Science.md",
+    "Untitled.md",
+    "notes/LLMOps - The Emerging Toolkit for Reliable, High-quality LLM Applications.md",
+    "_index.md",
+    "notes/Emerging Architectures for LLM apps.md",
+    "notes/Latest Note on MLOPS.md",
+    "templates/post.md",
+    "notes/Building LLM Apps for Production.md",
+    "private/Excalidraw/prompt_execution_inference.excalidraw.md",
+    "private/Excalidraw/prompt_creation_sme.excalidraw.md",
+    "private/Excalidraw/prompt_construcition_end_user.excalidraw.md",
+    "private/Excalidraw/dataset_level_privacy_enhancing_techniques.excalidraw.md",
+    "private/Excalidraw/data_preprocessing_embedding_creation.excalidraw.md",
+    "private/Excalidraw/collaboration-level_privacy_enhancing_techniques.excalidraw.md",
+    "private/Excalidraw/choosing_a_model.excalidraw.md",
+    "private/Excalidraw/LLM App Architecture.png",
+    "private/Excalidraw/LLM App Architecture.excalidraw",
+    "private/Excalidraw",
+    "notes/Excalidraw/prompt_execution_inference.excalidraw.md",
+    "notes/Excalidraw/prompt_creation_sme.excalidraw.md",
+    "notes/Excalidraw/prompt_construcition_end_user.excalidraw.md",
+    "notes/Excalidraw/dataset_level_privacy_enhancing_techniques.excalidraw.md",
+    "notes/Excalidraw/data_preprocessing_embedding_creation.excalidraw.md",
+    "notes/Excalidraw/collaboration-level_privacy_enhancing_techniques.excalidraw.md",
+    "notes/Excalidraw/choosing_a_model.excalidraw.md",
+    "notes/Excalidraw/LLM App Architecture.png",
+    "notes/Excalidraw/LLM App Architecture.excalidraw",
+    "notes/Excalidraw",
+    "notes/prompt_execution_inference.excalidraw.md",
+    "notes/prompt_creation_sme.excalidraw.md",
+    "notes/prompt_construcition_end_user.excalidraw.md",
+    "notes/LLM App Architecture.png",
+    "notes/LLM App Architecture.excalidraw",
+    "notes/dataset_level_privacy_enhancing_techniques.excalidraw.md",
+    "notes/images/RLHF.png",
+    "notes/images/prompt_execution_inference.png",
+    "notes/images/prompt_creation_sme.png",
+    "notes/images/prompt_construction_end_user.png",
+    "notes/images/Pasted image 20230623123432.png",
+    "notes/images/dataset_level_privacy_enhancing_techniques.png",
+    "notes/images/data_preprocessing and embedding creation.png"
+  ]
+}
