@@ -49,10 +49,10 @@ gcloud builds submit --tag gcr.io/<PROJECT_ID>/<RANDOM_PROJECT_NAME>
 After deploying the app, we can test and monitor its usage:
 1. Access the deployed app: Once, the deployment is complete, we receive a URL where the Streamlit app is accessible.
 2. Monitoring and Troubleshooting: Using the Google Cloud Console, we can monitor the app. This includes checking logs, monitoring usage, and identifying any issues that might arise.
-![[streamlit_app_monitoring_cloud_run.png]]
+![[notes/images/streamlit_app_monitoring_cloud_run.png]]
 
 ## CI/CD
 For effecient app updates, we can implement CD:
 1. Setting up source control: We can link our Github code repository to Google Cloud Build for automated deployments
 2. Configure Triggers: We can configure triggers to build and deploy our app whenever changes are pushed to the repository
-![[streamlit_app_cloud_run_cd.png]]
+![[notes/images/streamlit_app_cloud_run_cd.png]]
