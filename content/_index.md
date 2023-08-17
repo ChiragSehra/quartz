@@ -13,5 +13,7 @@ Recent Topics
 
 [[notes/Unleashing Sensitive Datasets with Distributed Data Science]]
 
-[[Deploying Streamlit app on Google Cloud Run]]
+[[notes/Deploying Streamlit app on Google Cloud Run]]
+
+
 
