@@ -45,6 +45,17 @@ docker run -p 8080:8080 <image_name>
 gcloud builds submit --tag asia.gcr.io/<PROJECT_ID>/<RANDOM_PROJECT_NAME> 
 ```
 
+## Deploying the app
+1. Search for `Container Registry` and then you would be able to see the recent container image deployed.
+
+![[notes/images/container_registry_image_list.png]]
+2. Click `Deploy` and select `Deploy to Cloud Run` to deploy the app.
+
+![[notes/images/container_registry_image_deploument.png]]
+3. The app deployment will start and take some time to finish
+
+![[notes/images/cloud_run_app_deployment.png]]
+
 ## Testing and Monitoring the App Deployment
 After deploying the app, we can test and monitor its usage:
 1. Access the deployed app: Once, the deployment is complete, we receive a URL where the Streamlit app is accessible.
