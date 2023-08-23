@@ -42,7 +42,7 @@ docker run -p 8080:8080 <image_name>
 2. Enable the Cloud Run API: If you haven't already, enable the Cloud Run API for the GCP account.
 3. Deploy using Cloud Console: Following the Cloud Run Interface to deploy the dockerised streamlit app. We can also set environment variables and CPU limitations.
 ```
-gcloud builds submit --tag gcr.io/<PROJECT_ID>/<RANDOM_PROJECT_NAME> 
+gcloud builds submit --tag asia.gcr.io/<PROJECT_ID>/<RANDOM_PROJECT_NAME> 
 ```
 
 ## Testing and Monitoring the App Deployment
