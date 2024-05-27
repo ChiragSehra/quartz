@@ -1,22 +1,18 @@
 ---
-title: 🪴 Sehra's Second Brain
+title: 🪴 Second Brain - Chirag Sehra
 enableToc: true
 ---
 
-Recent Topics
+Hey, there 👋. My name is **Chirag Sehra** and this is where I keep my notes.
 
-[[notes/Building LLM Apps for Production]]
+I am a **Indie hacker**/**Data Engineer**, who ♥'s currently working as a hacker to build prototypes across for research and innovation teams around GenAI.
 
-[[notes/Emerging Architectures for LLM apps]]
+Right now only a few folders are publicly viewable here, but I may add more later.
 
-[[notes/LLMOps - The Emerging Toolkit for Reliable, High-quality LLM Applications]]
+If you'd like to follow me on socials, or find me anywhere, [all my links are here.](https://chiragsehra.dev)
 
-[[notes/Unleashing Sensitive Datasets with Distributed Data Science]]
-
-[[notes/Deploying Streamlit app on Google Cloud Run]]
-
-[[notes/Designing URL shortening service like TinyURL or Bitly]]
-
-[[notes/Some elasticsearch things to remember]]
-
-[[notes/Public Folder]]
+## Mindmap Index
+- [[notes/coding]]
+- [[notes/startups]]
+- [[notes/references from internet]]
+- [[ notes/Quick drafts for miscellaneous tech stuff]]
