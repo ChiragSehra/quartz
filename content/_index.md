@@ -15,4 +15,4 @@ If you'd like to follow me on socials, or find me anywhere, [all my links are h
 - [[notes/coding]]
 - [[notes/startups]]
 - [[notes/references from internet]]
-- [[ notes/Quick drafts for miscellaneous tech stuff]]
+- [[notes/Quick drafts for miscellaneous tech stuff]]
