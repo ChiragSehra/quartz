@@ -12,7 +12,7 @@ Right now only a few folders are publicly viewable here, but I may add more late
 If you'd like to follow me on socials, or find me anywhere, [all my links are here.](https://chiragsehra.dev)
 
 ## Mindmap Index
-- [[notes/coding]]
-- [[notes/startups]]
-- [[notes/references from internet]]
-- [[notes/Quick drafts for miscellaneous tech stuff]]
+- [[notes/coding/]]
+- [[notes/startups/]]
+- [[notes/references from internet/]]
+- [[notes/Quick drafts for miscellaneous tech stuff/]]
