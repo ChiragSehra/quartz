@@ -19,4 +19,4 @@ Recent Topics
 
 [[notes/Some elasticsearch things to remember]]
 
-[[Public Folder]]
+[[notes/Public Folder]]
