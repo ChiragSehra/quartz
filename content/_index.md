@@ -15,4 +15,3 @@ If you'd like to follow me on socials, or find me anywhere, [all my links are h
 - [[notes/startups/startups|startups]]
 - [[notes/coding/coding|coding]]
 - [[notes/references from internet/Internet References|Internet References]]
-- 

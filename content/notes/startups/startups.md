@@ -2,4 +2,3 @@ This is an index page that shows things learned from startups and related concep
 
 - Product Management
 	- [[notes/startups/Product Management/Product Management Discourse Plan|Product Management Discourse Plan]]
-	
