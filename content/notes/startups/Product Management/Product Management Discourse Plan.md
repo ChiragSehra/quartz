@@ -1,8 +1,9 @@
 ---
-title: "Product Management Discourse Plan"
+title: Product Management Discourse Plan
 date: 2023-08-24
 by: Chirag Sehra
-
+tags:
+  - startups
 ---
 
 **Week 1: Introduction to Product Innovation and Ideation**
