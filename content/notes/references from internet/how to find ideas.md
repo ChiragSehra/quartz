@@ -10,11 +10,14 @@
 4. if you don't care about vc, go ahead with trends - out of which quick companies/agencies can be created.
 5. Dont' just read, but build
 
-> [!1 prototype > 100 articles]
-> 	Why prototyping is good?
-> 		1. More familarity with new tools.
-> 		2. Able to solve old problem with new solution
-> 		3. Improved experience
+> [!SUCCESS]
+> 1 prototype > 100 articles
+> 
+> Why prototyping is good?
+> 1. More familarity with new tools.
+> 2. . Able to solve old problem with new solution
+> 3. Improved experience
+
 
 > [!WARNING]
 > 6. POSITIONING of the PRODUCT > EVERYTHING ELSE
