@@ -5,7 +5,7 @@ enableToc: true
  
 Hey, there 👋. My name is **Chirag Sehra** and this is where I keep my notes.
 
-I am a **Indie hacker**/**Data Engineer**, who ♥'s currently working as a hacker to build prototypes across for research and innovation teams around GenAI.
+I am a **Indie hacker**, who ♥'s currently working as a hacker to build prototypes across for research and innovation teams around GenAI. 
 
 Right now only a few folders are publicly viewable here, but I may add more later.
 
