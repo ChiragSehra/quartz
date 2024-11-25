@@ -1,8 +1,8 @@
 ---
-title: 🪴 Second Brain - Chirag Sehra
+title: 🪴 Logger - Chirag Sehra
 enableToc: true
 ---
-
+ 
 Hey, there 👋. My name is **Chirag Sehra** and this is where I keep my notes.
 
 I am a **Indie hacker**/**Data Engineer**, who ♥'s currently working as a hacker to build prototypes across for research and innovation teams around GenAI.
